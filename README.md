@@ -38,8 +38,13 @@ The GitHub repository links can be found in the devpost under "Try it out". Here
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>☀️ <a href="https://devpost.com/software/skyscape">Skyscape</a></h3>
+  <p><strong>Tech Stack:</strong> Flutter, Dart, Weather APIs, Firebase</p>
+  <p><strong>Description:</strong> Predicts the quality of golden hour.</p>
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
   <h3>🏢 <a href="https://devpost.com/software/hdb-resale-price-prediction">HDB Resale Price Prediction</a></h3>
-  <p><strong>(SC1015 Project)</strong></p>
   <p><strong>Tech Stack:</strong> Python, NumPy, Scikit-Learn, Pandas, Matplotlib</p>
   <p><strong>Description:</strong> Predicts the resale prices of HDB flats using machine learning models.</p>
 </div>
