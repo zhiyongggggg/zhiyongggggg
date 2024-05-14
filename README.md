@@ -26,29 +26,41 @@
 # 📊 Projects:
 The GitHub repository links can be found in the devpost under "Try it out". Here is a compiled list of the projects I have worked on:
 
-### 🌳 [Treeco](https://www.youtube.com/watch?v=w3nlskYGwhc&ab_channel=AustinCode) 
-#### (Hackathon organized by Google and NTU dEEEveloper Club)
-- **Tech Stack**: React.js, Firebase, CSS, Vertex Computer Vision API, Gemini API, Google Maps API
-- **Description**: Aims to gamify the recycling experience to promote recycling efforts in Singapore.
-- **Demo**: Try it out [here!](https://tech4tomorrow-gfc.web.app/)
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>🌳 <a href="https://www.youtube.com/watch?v=w3nlskYGwhc&ab_channel=AustinCode">Treeco</a></h3>
+  <p><strong>(Hackathon organized by Google and NTU dEEEveloper Club)</strong></p>
+  <p><strong>Tech Stack:</strong> React.js, Firebase, CSS, Vertex Computer Vision API, Gemini API, Google Maps API</p>
+  <p><strong>Description:</strong> Aims to gamify the recycling experience to promote recycling efforts in Singapore.</p>
+  <p><strong>Demo:</strong> Try it out <a href="https://tech4tomorrow-gfc.web.app/">here!</a></p>
+</div>
 
-### 🏢 [HDB Resale Price Prediction](https://devpost.com/software/hdb-resale-price-prediction)
-#### (SC1015 Project)
-- **Tech Stack**: Python, NumPy, Scikit-Learn, Pandas, Matplotlib
-- **Description**: Predicts the resale prices of HDB flats using machine learning models.
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>🏢 <a href="https://devpost.com/software/hdb-resale-price-prediction">HDB Resale Price Prediction</a></h3>
+  <p><strong>(SC1015 Project)</strong></p>
+  <p><strong>Tech Stack:</strong> Python, NumPy, Scikit-Learn, Pandas, Matplotlib</p>
+  <p><strong>Description:</strong> Predicts the resale prices of HDB flats using machine learning models.</p>
+</div>
 
-### 🩺 [Healthify](https://devpost.com/software/healthify-43gypr)
-- **Tech Stack**: Python, HTML, CSS, Flask, SQLite3
-- **Description**: A health management web application to track and improve personal health metrics.
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>🩺 <a href="https://devpost.com/software/healthify-43gypr">Healthify</a></h3>
+  <p><strong>Tech Stack:</strong> Python, HTML, CSS, Flask, SQLite3</p>
+  <p><strong>Description:</strong> A health management web application to track and improve personal health metrics.</p>
+</div>
 
-### 🏖️ [Offun](https://devpost.com/software/team-trying-our-best)
-- **Tech Stack**: Python, HTML, CSS, Flask, SQLite3
-- **Description**: An application to plan and manage offline fun activities.
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>🏖️ <a href="https://devpost.com/software/team-trying-our-best">Offun</a></h3>
+  <p><strong>Tech Stack:</strong> Python, HTML, CSS, Flask, SQLite3</p>
+  <p><strong>Description:</strong> An application to plan and manage offline fun activities.</p>
+</div>
 
-### 💼 [TechJob](https://devpost.com/software/techjob?ref_content=user-portfolio&ref_feature=in_progress)
-- **Tech Stack**: Python, HTML, CSS, JavaScript, Flask
-- **Description**: A platform to connect tech job seekers with potential employers.
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>💼 <a href="https://devpost.com/software/techjob?ref_content=user-portfolio&ref_feature=in_progress">TechJob</a></h3>
+  <p><strong>Tech Stack:</strong> Python, HTML, CSS, JavaScript, Flask</p>
+  <p><strong>Description:</strong> A platform to connect tech job seekers with potential employers.</p>
+</div>
 
-### 👫 [Friends of the Community](https://devpost.com/software/trying-our-best)
-- **Tech Stack**: HTML, CSS, JavaScript
-- **Description**: A community-focused application to foster connections and support among members.
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>👫 <a href="https://devpost.com/software/trying-our-best">Friends of the Community</a></h3>
+  <p><strong>Tech Stack:</strong> HTML, CSS, JavaScript</p>
+  <p><strong>Description:</strong> A community-focused application to foster connections and support among members.</p>
+</div>
