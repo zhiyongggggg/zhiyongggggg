@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a Year 3 Computer Science student in NTU.<br>🌱 I’m currently learning machine learning and artificial intelligence with TensorFlow.<br>⚡ I enjoy running, playing video games, and travelling!
+🔭 I am a Year 3 Computer Science student in NTU.<br>🌱 I’m currently learning machine learning and artificial intelligence with TensorFlow.<br>⚡ I enjoy running, playing video games, and travelling!<br> Website: [www.zhiyong-lim.vercel.app](https://zhiyong-lim.vercel.app/)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhiyonglim2001) 
