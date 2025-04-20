@@ -12,7 +12,6 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
 
 ### Others:
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
@@ -28,6 +27,13 @@
 
 # 📊 Projects:
 The GitHub repository links can be found in the devpost under "Try it out". Here is a compiled list of the projects I have worked on:
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>📔 NoteShare</a></h3>
+  <p><strong>Tech Stack:</strong> Next.js, AWS S3, Postgres, Supabase, Tailwind CSS, Docker</p>
+  <p><strong>Description:</strong> A collaborative platform for students to share their study materials.</p>
+  <p><strong>Application:</strong> Try it out <a href="https://sharemynotes.vercel.app/">here!</a></p>
+</div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
   <h3>🌳 <a href="https://www.youtube.com/watch?v=w3nlskYGwhc&ab_channel=AustinCode">Treeco</a></h3>
