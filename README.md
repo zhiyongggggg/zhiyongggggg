@@ -36,6 +36,13 @@ The GitHub repository links can be found in the devpost under "Try it out". Here
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
+  <h3>💶 SimplySplit</a></h3>
+  <p><strong>Tech Stack:</strong> React.js, CSS, Firebase</p>
+  <p><strong>Description:</strong> Track and split your group expenses with ease.</p>
+  <p><strong>Application:</strong> Try it out <a href="https://simplysplit-87576.web.app/home">here!</a></p>
+</div>
+
+<div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
   <h3>🌳 <a href="https://www.youtube.com/watch?v=w3nlskYGwhc&ab_channel=AustinCode">Treeco</a></h3>
   <p><strong>(Hackathon organized by Google and NTU dEEEveloper Club)</strong></p>
   <p><strong>Tech Stack:</strong> React.js, Firebase, CSS, Vertex Computer Vision API, Gemini API, Google Maps API</p>
