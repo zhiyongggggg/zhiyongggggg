@@ -32,7 +32,7 @@ The GitHub repository links can be found in the devpost under "Try it out". Here
   <h3>📔 NoteShare</a></h3>
   <p><strong>Tech Stack:</strong> Next.js, AWS S3, Postgres, Supabase, Tailwind CSS, Docker</p>
   <p><strong>Description:</strong> A collaborative platform for students to share their study materials.</p>
-  <p><strong>Application:</strong> Try it out <a href="https://sharemynotes.vercel.app/">here!</a></p>
+  <p><strong>Application:</strong> Try it out <a href="https://www.sharemynotes.net">here!</a></p>
 </div>
 
 <div style="border: 1px solid #e1e4e8; border-radius: 6px; padding: 16px; margin-bottom: 20px;">
